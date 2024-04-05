@@ -1,10 +1,7 @@
 import pymysql
 
 # Replace placeholders with your database credentials
-host = "database-1.cpo8g8224nk4.us-west-2.rds.amazonaws.com"
-user = "admin"
-password = "admin123"
-database = "database_rds"
+credentials
 
 
 
